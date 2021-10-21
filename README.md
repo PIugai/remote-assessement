@@ -10,3 +10,6 @@ By clicking on a btn on the 2nd page, you can go back to the 1st page where the 
 Create a mobile-first layout
 Use inline & external css (pay attention to naming conventions)
 Push the Front end application to the GitHub repository
+
+## Preview
+[Check it out](https://b59ac566.remote-assessement.pages.dev)
